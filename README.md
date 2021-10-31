@@ -11,3 +11,5 @@ The System has 2 modes:
 The control board was designed usnig Altium Designer.
 
 ## Yehia Ehab
+## Ahmed Mahmoud
+## Yehia Shahin
